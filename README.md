@@ -27,7 +27,7 @@
 
 - Image of the New District Summary:
 
-![Challenge District Summary Image](/Resources/"README images"/district_summary_challenge.png "District Summary Challenge")
+![Challenge District Summary Image](Resources/README_images/district_summary_challenge.png)
 
 ### School Summary Results
 
@@ -40,11 +40,11 @@
 
 - Image of the Original School Summary
 
-![Original School Summary Image](Resources/README images/school_summary_original.png "School Summary Original")
+![Original School Summary Image](Resources/README_images/school_summary_original.png)
 
 - Image of the New School Summary
 
-![Challenge School Summary](Resources/README images/school_summary_challenge.png "School Summary Challenge")
+![Challenge School Summary](Resources/README_images/school_summary_challenge.png)
 
 ### Math and Reading Scores by Grade
 
@@ -55,11 +55,11 @@
 
 - Image of Original Math Score by Grade Analysis:
 
-![Original Math Grade](Resources/README images/math_grade_original.png "Math Grade Original")
+![Original Math Grade](Resources/README_images/math_grade_original.png)
 
 - Image of New Math Score by Grade Analysis:
 
-![New Math Grade](Resources/README images/math_grade_challenge.png "Math Grade Challenge")
+![New Math Grade](Resources/README_images/math_grade_challenge.png)
 
 #### Reading Scores
 
@@ -69,11 +69,11 @@
 
 - Image of Original Reading Score by Grade Analysis:
 
-![Original Reading Grade](Resources/README images/reading_grade_original.png "Reading Grade Original")
+![Original Reading Grade](Resources/README_images/reading_grade_original.png)
 
 - Image of New Reading Score by Grade Analysis:
 
-![Challenge Reading Grade](Resources/README images/reading_grade_challenge.png "Reading Grade Challenge")
+![Challenge Reading Grade](Resources/README_images/reading_grade_challenge.png)
 
 ### Scores by School Spending
 
@@ -88,11 +88,11 @@
 
 - Image of the Original School Spending Analysis:
 
-![Original Spending Summary](Resources/README images/spending_summary_original.png "Spending Summary Original")
+![Original Spending Summary](Resources/README_images/spending_summary_original.png)
 
 - Image of the New School Spending Analysis
 
-![Challenge Spending Summary](Resources/README images/spending_summary_challenge.png "Spending Summary Challenge")
+![Challenge Spending Summary](Resources/README_images/spending_summary_challenge.png)
 
 ### Scores by School Size
 
@@ -113,11 +113,11 @@
 
 - Image of the Original School Size Analysis
 
-![Original School Size](Resources/README images/size_summary_original.png "Size Summary Original")
+![Original School Size](Resources/README_images/size_summary_original.png)
 
 - Image of the New School Size Analysis
 
-![Challenge School Size](Resources/README images/size_summary_challenge.png "Size Summary Challenge")
+![Challenge School Size](Resources/README_images/size_summary_challenge.png)
 
 ### Scores by School Type
 
@@ -135,11 +135,11 @@
 
 - Image of the Original School Type Analysis:
 
-![Original Type Summary](Resources/README images/type_summary_original.png "Type Summary Original")
+![Original Type Summary](Resources/README_images/type_summary_original.png)
 
 - Image of the New School Type Analysis:
 
-![Challenge Type Summary](Resources/README images/type_summary_challenge.png "Type Summary Challenge")
+![Challenge Type Summary](Resources/README_images/type_summary_challenge.png)
 
 ## Summary
 
