@@ -23,11 +23,11 @@
 
 - Image of the Original District Summary:
 
-![Original District Summary Image](Resources/README images/district_summary_original.png "District Summary Original")
+![Original District Summary Image](/Resources/"README images"/district_summary_original.png "District Summary Original")
 
 - Image of the New District Summary:
 
-![Challenge District Summary Image](Resources/README images/district_summary_challenge.png "District Summary Challenge")
+![Challenge District Summary Image](/Resources/"README images"/district_summary_challenge.png "District Summary Challenge")
 
 ### School Summary Results
 
