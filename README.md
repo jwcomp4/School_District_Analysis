@@ -23,7 +23,7 @@
 
 - Image of the Original District Summary:
 
-![Original District Summary Image](/Resources/"README images"/district_summary_original.png "District Summary Original")
+![Original District Summary Image](Resources/README_images/district_summary_original.png)
 
 - Image of the New District Summary:
 
